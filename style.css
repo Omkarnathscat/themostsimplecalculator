@@ -1,0 +1,17 @@
+ #page{
+       background-image: linear-gradient(40deg,rgb(181, 225, 255),lightblue,blue ,darkblue,rgb(0, 0, 85));
+       height:7.2in;
+       width: 15in;
+       border-radius: 33px;
+       margin: 40px;
+
+ }
+ #c {
+       position:absolute;
+       top: 330px;
+       left: 550px;
+       color:whitesmoke;
+ }
+ .textbuttons{
+       background-image: linear-gradient(to top right,red,orange,yellow);
+}
